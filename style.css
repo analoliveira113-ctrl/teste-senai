@@ -1,0 +1,16 @@
+span{
+    color:rgb(129, 12, 57);
+    font-size: 40px;
+}
+
+div{
+    background-color:rgb(228, 90, 143);
+    width: 200px;
+
+}
+
+.div2{
+    background-color:rgb(228, 90, 143);
+    width: 200px;
+    color:rgb(255, 255, 255);
+}
